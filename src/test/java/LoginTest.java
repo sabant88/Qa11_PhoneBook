@@ -47,16 +47,12 @@ public class LoginTest {
         clickLogin.click();
 
         //check sign out in present
-        //  Assert.assertTrue(wd.findElement(By.xpath("//button[text()='Sign Out']")));
-
-
-
+          Assert.assertTrue(wd.findElement(By.xpath("//button[text()='Sign Out']")).isDisplayed());
 
     }
 
     @AfterMethod
     public void postCondition(){
-
         wd.quit();
     }
 }
