@@ -1,0 +1,36 @@
+6785 [Test worker] INFO  manager.ApplManager - all tests starts at Chrome Browser
+8238 [Test worker] INFO  manager.ApplManager - Link ------->https://contacts-app.tobbymarshall815.vercel.app/home
+8649 [Test worker] INFO  tests.TestBase - Test name---->addNewContactSucces
+8666 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+18817 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+18821 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+18905 [Test worker] INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+19033 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+19061 [Test worker] INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+19256 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[1]
+19289 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //input[1] was found
+19562 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[2]
+19590 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //input[2] was found
+19815 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[1]
+19854 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //button[1] was found
+22076 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //a[@href='/add']
+22124 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //a[@href='/add'] was found
+22279 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Name']
+22355 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Name'] was found
+22675 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Last Name']
+22707 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Last Name'] was found
+23073 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Phone']
+23135 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Phone'] was found
+23526 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='email']
+23561 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='email'] was found
+23881 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Address']
+23911 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Address'] was found
+24073 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='description']
+24108 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='description'] was found
+24308 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //b
+24334 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //b was found
+24405 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+25207 [Test worker] INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+27218 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+27244 [Test worker] INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+27255 [Test worker] INFO  tests.TestBase - End of testaddNewContactSucces

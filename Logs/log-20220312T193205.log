@@ -1,0 +1,29 @@
+10147 [Test worker] INFO  manager.ApplManager - all tests starts at Chrome Browser
+11039 [Test worker] INFO  manager.ApplManager - Link ------->https://contacts-app.tobbymarshall815.vercel.app/home
+11513 [Test worker] INFO  tests.TestBase - Test name---->loginTest2
+11529 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+21637 [Test worker] INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+21652 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+21711 [Test worker] INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+21796 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+21811 [Test worker] INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22118 [Test worker] INFO  manager.MyListener - Start search element by locatorBy.xpath: input[1]
+32207 [Test worker] INFO  manager.MyListener - Something went wrong
+32209 [Test worker] INFO  manager.MyListener - Unable to locate element: input[1]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 1520, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3a8b8943-ddfe-435e-b70f-6d0e01e81348
+*** Element info: {Using=xpath, value=input[1]}
+32211 [Test worker] INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Unable to locate element: input[1]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 1520, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3a8b8943-ddfe-435e-b70f-6d0e01e81348
+*** Element info: {Using=xpath, value=input[1]}
+32866 [Test worker] INFO  manager.MyListener - this link to screenshots with errorscreenshots1956.png
+32873 [Test worker] INFO  tests.TestBase - End of testloginTest2

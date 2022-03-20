@@ -1,0 +1,314 @@
+21:58:48  INFO  manager.ApplManager - all tests starts at Chrome Browser
+21:58:51  INFO  manager.ApplManager - Link ------->https://contacts-app.tobbymarshall815.vercel.app/home
+21:58:55  INFO  tests.TestBase - Test name---->addNewContactSucces
+21:58:55  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+21:59:05  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+21:59:05  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+21:59:05  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+21:59:05  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+21:59:05  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+21:59:06  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[1]
+21:59:06  INFO  manager.MyListener - element by locatorBy.xpath: //input[1] was found
+21:59:06  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[2]
+21:59:06  INFO  manager.MyListener - element by locatorBy.xpath: //input[2] was found
+21:59:07  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[1]
+21:59:07  INFO  manager.MyListener - element by locatorBy.xpath: //button[1] was found
+21:59:10  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:10  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:10  INFO  tests.TestBase - the test 'Add new contact' starts with count of contact in the start ----> 23
+21:59:10  INFO  manager.MyListener - Start search element by locatorBy.xpath: //a[@href='/add']
+21:59:10  INFO  manager.MyListener - element by locatorBy.xpath: //a[@href='/add'] was found
+21:59:10  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Name']
+21:59:10  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Name'] was found
+21:59:11  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Last Name']
+21:59:11  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Last Name'] was found
+21:59:12  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Phone']
+21:59:12  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Phone'] was found
+21:59:12  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='email']
+21:59:12  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='email'] was found
+21:59:13  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Address']
+21:59:13  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Address'] was found
+21:59:13  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='description']
+21:59:13  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='description'] was found
+21:59:13  INFO  manager.MyListener - Start search element by locatorBy.xpath: //b
+21:59:13  INFO  manager.MyListener - element by locatorBy.xpath: //b was found
+21:59:14  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:14  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:14  INFO  tests.TestBase - the test 'Add new contact' ends with count of contact in the end ----> 24
+21:59:16  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: h2
+21:59:16  INFO  manager.MyListener - element by locatorBy.cssSelector: h2 was found
+21:59:16  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: h3
+21:59:16  INFO  manager.MyListener - element by locatorBy.cssSelector: h3 was found
+21:59:16  INFO  tests.TestBase - End of testaddNewContactSucces
+21:59:16  INFO  tests.TestBase - Test name---->addNewContactSucces
+21:59:16  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+21:59:16  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+21:59:16  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:16  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:16  INFO  tests.TestBase - the test 'Add new contact' starts with count of contact in the start ----> 24
+21:59:16  INFO  manager.MyListener - Start search element by locatorBy.xpath: //a[@href='/add']
+21:59:16  INFO  manager.MyListener - element by locatorBy.xpath: //a[@href='/add'] was found
+21:59:17  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Name']
+21:59:17  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Name'] was found
+21:59:17  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Last Name']
+21:59:17  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Last Name'] was found
+21:59:17  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Phone']
+21:59:17  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Phone'] was found
+21:59:18  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='email']
+21:59:18  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='email'] was found
+21:59:18  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Address']
+21:59:18  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Address'] was found
+21:59:18  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='description']
+21:59:18  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='description'] was found
+21:59:19  INFO  manager.MyListener - Start search element by locatorBy.xpath: //b
+21:59:19  INFO  manager.MyListener - element by locatorBy.xpath: //b was found
+21:59:19  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:19  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:19  INFO  tests.TestBase - the test 'Add new contact' ends with count of contact in the end ----> 25
+21:59:21  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: h2
+21:59:21  INFO  manager.MyListener - element by locatorBy.cssSelector: h2 was found
+21:59:21  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: h3
+21:59:21  INFO  manager.MyListener - element by locatorBy.cssSelector: h3 was found
+21:59:21  INFO  tests.TestBase - End of testaddNewContactSucces
+21:59:21  INFO  tests.TestBase - Test name---->addNewContactSucces
+21:59:21  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+21:59:21  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+21:59:21  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:21  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:21  INFO  tests.TestBase - the test 'Add new contact' starts with count of contact in the start ----> 25
+21:59:21  INFO  manager.MyListener - Start search element by locatorBy.xpath: //a[@href='/add']
+21:59:21  INFO  manager.MyListener - element by locatorBy.xpath: //a[@href='/add'] was found
+21:59:21  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Name']
+21:59:21  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Name'] was found
+21:59:22  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Last Name']
+21:59:22  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Last Name'] was found
+21:59:22  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Phone']
+21:59:22  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Phone'] was found
+21:59:22  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='email']
+21:59:22  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='email'] was found
+21:59:23  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Address']
+21:59:23  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Address'] was found
+21:59:23  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='description']
+21:59:23  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='description'] was found
+21:59:23  INFO  manager.MyListener - Start search element by locatorBy.xpath: //b
+21:59:23  INFO  manager.MyListener - element by locatorBy.xpath: //b was found
+21:59:24  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:24  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:24  INFO  tests.TestBase - the test 'Add new contact' ends with count of contact in the end ----> 26
+21:59:26  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: h2
+21:59:26  INFO  manager.MyListener - element by locatorBy.cssSelector: h2 was found
+21:59:26  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: h3
+21:59:26  INFO  manager.MyListener - element by locatorBy.cssSelector: h3 was found
+21:59:27  INFO  tests.TestBase - End of testaddNewContactSucces
+21:59:27  INFO  tests.TestBase - Test name---->addNewContactSuccesCsv
+21:59:27  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+21:59:27  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+21:59:27  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:27  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:27  INFO  tests.TestBase - the test 'Add new contact' starts with count of contact in the start ----> 26
+21:59:27  INFO  tests.TestBase - the test 'Add new contact' starts with data ----> Contact{name='Mona10', lastName='Dow', phone='12345678910', eMail='mona10@mail.com', address='Africa', description='Hot Place'}
+21:59:27  INFO  manager.MyListener - Start search element by locatorBy.xpath: //a[@href='/add']
+21:59:27  INFO  manager.MyListener - element by locatorBy.xpath: //a[@href='/add'] was found
+21:59:27  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Name']
+21:59:27  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Name'] was found
+21:59:28  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Last Name']
+21:59:28  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Last Name'] was found
+21:59:29  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Phone']
+21:59:29  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Phone'] was found
+21:59:29  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='email']
+21:59:29  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='email'] was found
+21:59:30  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Address']
+21:59:30  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Address'] was found
+21:59:31  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='description']
+21:59:31  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='description'] was found
+21:59:31  INFO  manager.MyListener - Start search element by locatorBy.xpath: //b
+21:59:31  INFO  manager.MyListener - element by locatorBy.xpath: //b was found
+21:59:32  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:42  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:42  INFO  tests.TestBase - the test 'Add new contact' ends with count of contact in the end ----> 0
+21:59:44  INFO  tests.TestBase - End of testaddNewContactSuccesCsv
+21:59:44  INFO  tests.TestBase - Test name---->addNewContactSuccesCsv
+21:59:44  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+21:59:44  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+21:59:44  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+21:59:54  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+21:59:54  INFO  tests.TestBase - the test 'Add new contact' starts with count of contact in the start ----> 0
+21:59:54  INFO  tests.TestBase - the test 'Add new contact' starts with data ----> Contact{name='Mona111', lastName='Dow', phone='12345678911', eMail='mona11@mail.com', address='Africa', description='Hot Place'}
+21:59:54  INFO  manager.MyListener - Start search element by locatorBy.xpath: //a[@href='/add']
+21:59:54  INFO  manager.MyListener - element by locatorBy.xpath: //a[@href='/add'] was found
+21:59:55  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Name']
+21:59:55  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Name'] was found
+21:59:56  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Last Name']
+21:59:56  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Last Name'] was found
+21:59:56  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Phone']
+21:59:56  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Phone'] was found
+21:59:57  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='email']
+21:59:57  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='email'] was found
+21:59:58  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='Address']
+21:59:58  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='Address'] was found
+21:59:58  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[@placeholder='description']
+21:59:58  INFO  manager.MyListener - element by locatorBy.xpath: //input[@placeholder='description'] was found
+21:59:59  INFO  manager.MyListener - Start search element by locatorBy.xpath: //b
+21:59:59  INFO  manager.MyListener - element by locatorBy.xpath: //b was found
+22:00:00  INFO  manager.MyListener - Start search element by locatorBy.cssSelector: .contact-item_card__2SOIM
+22:00:10  INFO  manager.MyListener - element by locatorBy.cssSelector: .contact-item_card__2SOIM was found
+22:00:10  INFO  tests.TestBase - the test 'Add new contact' ends with count of contact in the end ----> 0
+22:00:12  INFO  tests.TestBase - End of testaddNewContactSuccesCsv
+22:00:12  INFO  tests.TestBase - Test name---->loginPositiveTestDataProvider
+22:00:12  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:12  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:12  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:12  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:13  INFO  tests.TestBase - User starts login test with e-mail: noa@gmail.com && password: Nnoa12345$
+22:00:13  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:13  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:13  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:13  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:13  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[1]
+22:00:13  INFO  manager.MyListener - element by locatorBy.xpath: //input[1] was found
+22:00:14  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[2]
+22:00:14  INFO  manager.MyListener - element by locatorBy.xpath: //input[2] was found
+22:00:14  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[1]
+22:00:14  INFO  manager.MyListener - element by locatorBy.xpath: //button[1] was found
+22:00:15  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:15  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:15  INFO  tests.TestBase - End of testloginPositiveTestDataProvider
+22:00:15  INFO  tests.TestBase - Test name---->loginPositiveTestDataProvider
+22:00:15  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:15  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:15  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:15  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:16  INFO  tests.TestBase - User starts login test with e-mail: noa@gmail.com && password: Nnoa12345$
+22:00:16  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:16  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:16  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:16  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:16  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[1]
+22:00:16  INFO  manager.MyListener - element by locatorBy.xpath: //input[1] was found
+22:00:17  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[2]
+22:00:17  INFO  manager.MyListener - element by locatorBy.xpath: //input[2] was found
+22:00:18  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[1]
+22:00:18  INFO  manager.MyListener - element by locatorBy.xpath: //button[1] was found
+22:00:18  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:18  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:18  INFO  tests.TestBase - End of testloginPositiveTestDataProvider
+22:00:18  INFO  tests.TestBase - Test name---->loginPositiveTestDataProvider
+22:00:18  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:18  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:18  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:18  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:19  INFO  tests.TestBase - User starts login test with e-mail: noa@gmail.com && password: Nnoa12345$
+22:00:19  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:19  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:19  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:19  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:20  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[1]
+22:00:20  INFO  manager.MyListener - element by locatorBy.xpath: //input[1] was found
+22:00:20  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[2]
+22:00:20  INFO  manager.MyListener - element by locatorBy.xpath: //input[2] was found
+22:00:21  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[1]
+22:00:21  INFO  manager.MyListener - element by locatorBy.xpath: //button[1] was found
+22:00:22  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:22  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:22  INFO  tests.TestBase - End of testloginPositiveTestDataProvider
+22:00:22  INFO  tests.TestBase - Test name---->loginTest2
+22:00:22  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:22  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:22  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:22  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:22  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:22  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:22  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:22  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:23  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[1]
+22:00:23  INFO  manager.MyListener - element by locatorBy.xpath: //input[1] was found
+22:00:24  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[2]
+22:00:24  INFO  manager.MyListener - element by locatorBy.xpath: //input[2] was found
+22:00:25  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[1]
+22:00:25  INFO  manager.MyListener - element by locatorBy.xpath: //button[1] was found
+22:00:25  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:25  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:25  INFO  tests.TestBase - End of testloginTest2
+22:00:25  INFO  tests.TestBase - Test name---->loginTestWrongEmail
+22:00:25  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:25  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:25  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:25  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:26  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:26  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:26  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+22:00:26  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+22:00:26  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[1]
+22:00:26  INFO  manager.MyListener - element by locatorBy.xpath: //input[1] was found
+22:00:27  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[2]
+22:00:27  INFO  manager.MyListener - element by locatorBy.xpath: //input[2] was found
+22:00:28  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[1]
+22:00:28  INFO  manager.MyListener - element by locatorBy.xpath: //button[1] was found
+22:00:28  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:38  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+22:00:38  INFO  tests.TestBase - End of testloginTestWrongEmail
+22:00:38  INFO  tests.TestBase - Test name---->removeContact
+22:00:38  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:49  INFO  manager.MyListener - Something went wrong
+22:00:49  INFO  manager.MyListener - TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 13164, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45442080-3cac-4182-81ea-7235fe09436d
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+22:00:49  INFO  manager.MyListener - org.openqa.selenium.WebDriverException: TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 13164, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45442080-3cac-4182-81ea-7235fe09436d
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+22:00:49  INFO  tests.TestBase - End of testremoveContact
+22:00:49  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:49  INFO  manager.MyListener - Something went wrong
+22:00:49  INFO  manager.MyListener - Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 13164, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45442080-3cac-4182-81ea-7235fe09436d
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+22:00:49  INFO  manager.MyListener - org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 13164, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45442080-3cac-4182-81ea-7235fe09436d
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+22:00:49  INFO  tests.TestBase - End of testremoveContactCount
+22:00:49  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22:00:49  INFO  manager.MyListener - Something went wrong
+22:00:49  INFO  manager.MyListener - Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 13164, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45442080-3cac-4182-81ea-7235fe09436d
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+22:00:49  INFO  manager.MyListener - org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 13164, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45442080-3cac-4182-81ea-7235fe09436d
+*** Element info: {Using=xpath, value=//button[text()='Sign Out']}
+22:00:49  INFO  tests.TestBase - End of testremoveAllContactsTest
+22:00:49  INFO  manager.MyListener - Something went wrong
+22:00:49  INFO  manager.MyListener - Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 13164, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45442080-3cac-4182-81ea-7235fe09436d
+22:00:49  INFO  manager.MyListener - org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANTON-PC', ip: '192.168.1.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220304153049, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 13164, moz:profile: C:\Users\saban\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45442080-3cac-4182-81ea-7235fe09436d

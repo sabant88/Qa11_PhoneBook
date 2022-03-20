@@ -1,0 +1,17 @@
+7567 [Test worker] INFO  manager.ApplManager - all tests starts at Chrome Browser
+9831 [Test worker] INFO  tests.TestBase - Test name---->loginTest2
+9964 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+20127 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.xpath: //button[text()='Sign Out']was found
+20134 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.linkText: LOGIN
+20187 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.linkText: LOGINwas found
+20304 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.linkText: LOGIN
+20334 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.linkText: LOGINwas found
+20560 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.xpath: //input[1]
+20625 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.xpath: //input[1]was found
+20902 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.xpath: //input[2]
+20928 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.xpath: //input[2]was found
+21175 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.xpath: //button[1]
+21204 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.xpath: //button[1]was found
+21293 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+22208 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.xpath: //button[text()='Sign Out']was found
+22224 [Test worker] INFO  tests.TestBase - End of testloginTest2

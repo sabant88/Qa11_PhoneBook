@@ -1,0 +1,29 @@
+5770 [Test worker] INFO  manager.ApplManager - all tests starts at Chrome Browser
+7143 [Test worker] INFO  tests.TestBase - Test name---->loginTest2
+7152 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+17262 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+17268 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.linkText: LOGIN
+17327 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.linkText: LOGIN was found
+17420 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.linkText: LOGIN
+17438 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - element by locatorBy.linkText: LOGIN was found
+17646 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Start search element by locatorBy.xpath: input[1]
+27737 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - Something went wrong
+27738 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - no such element: Unable to locate element: {"method":"xpath","selector":"input[1]"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-HCCSNRC3', ip: '192.168.1.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\saban\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62729}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0bc0fa7397411830bc292c64e96825ce
+*** Element info: {Using=xpath, value=input[1]}
+27740 [Test worker] INFO  o.o.s.s.e.AbstractWebDriverEventListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"input[1]"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-HCCSNRC3', ip: '192.168.1.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\saban\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62729}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0bc0fa7397411830bc292c64e96825ce
+*** Element info: {Using=xpath, value=input[1]}
+27750 [Test worker] INFO  tests.TestBase - End of testloginTest2
