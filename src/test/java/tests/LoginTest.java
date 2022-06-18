@@ -108,6 +108,22 @@ public class LoginTest extends TestBase{
     }
 
 
+    @Test
+    public void loginTestWrongPassword(){
+        User user = new User().setPassword("noa12345$").setWithMail("noa@gmail.com");
+//        String eMail = "noa@gmail.com";
+//        String password = "noa12345$";
+
+        app.getUserHelper().openLoginRegForm();
+        app.getUserHelper().fillRegForm(user);
+        app.getUserHelper().submitLoginForm();
+
+        Assert.assertTrue(app.getUserHelper().isAlertPresent());
+        Assert.assertFalse(app.getUserHelper().isLogged());
+
+    }
+
+
 
 
 }

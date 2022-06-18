@@ -14,7 +14,7 @@ import org.testng.annotations.BeforeSuite;
 import java.util.concurrent.TimeUnit;
 
 public class ApplManager {
-  //  WebDriver wd;
+    //  WebDriver wd;
     EventFiringWebDriver wd;
     UserHelper userHelper;
     ContactHelper contactHelper;
@@ -38,19 +38,19 @@ public class ApplManager {
     @BeforeSuite
     public void preCon(){
         //wd = new EventFiringWebDriver(new ChromeDriver());
-       // wd = if(browser.equals(BrowserType.CHROME)){
+        // wd = if(browser.equals(BrowserType.CHROME)){
         if(browser.equals(BrowserType.CHROME)){
             wd =  new EventFiringWebDriver(new ChromeDriver());
-                    loger.info("All tests starts in 'Chrome' browser");
-                } else if(browser.equals(BrowserType.EDGE)){
-                    wd =  new EventFiringWebDriver(new EdgeDriver());
-                    loger.info("All tests starts in 'Edge' browser");
-                }else if (browser.equals(BrowserType.FIREFOX)){
-                    wd =  new EventFiringWebDriver(new FirefoxDriver());
-                    loger.info("All tests starts in 'Firefox' browser");
-                }
+            loger.info("All tests starts in 'Chrome' browser");
+        } else if(browser.equals(BrowserType.EDGE)){
+            wd =  new EventFiringWebDriver(new EdgeDriver());
+            loger.info("All tests starts in 'Edge' browser");
+        }else if (browser.equals(BrowserType.FIREFOX)){
+            wd =  new EventFiringWebDriver(new FirefoxDriver());
+            loger.info("All tests starts in 'Firefox' browser");
+        }
 
-      //  loger.info("all tests starts at Chrome Browser");
+        //  loger.info("all tests starts at Chrome Browser");
         wd.navigate().to("https://contacts-app.tobbymarshall815.vercel.app/home");
         loger.info("Link ------->" +wd.getCurrentUrl());
         wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);

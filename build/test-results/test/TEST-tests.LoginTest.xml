@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-18T20:32:24" hostname="ANTON-PC" time="13.333">
+  <properties/>
+  <testcase name="loginTestWrongPassword" classname="tests.LoginTest" time="13.333"/>
+  <system-out><![CDATA[23:32:14  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+23:32:24  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+23:32:24  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+23:32:24  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+23:32:25  INFO  manager.MyListener - Start search element by locatorBy.linkText: LOGIN
+23:32:25  INFO  manager.MyListener - element by locatorBy.linkText: LOGIN was found
+23:32:25  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[1]
+23:32:25  INFO  manager.MyListener - element by locatorBy.xpath: //input[1] was found
+23:32:25  INFO  manager.MyListener - Start search element by locatorBy.xpath: //input[2]
+23:32:26  INFO  manager.MyListener - element by locatorBy.xpath: //input[2] was found
+23:32:26  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[1]
+23:32:26  INFO  manager.MyListener - element by locatorBy.xpath: //button[1] was found
+23:32:27  INFO  manager.MyListener - Start search element by locatorBy.xpath: //button[text()='Sign Out']
+23:32:38  INFO  manager.MyListener - element by locatorBy.xpath: //button[text()='Sign Out'] was found
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

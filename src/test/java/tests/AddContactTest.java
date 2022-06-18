@@ -17,7 +17,7 @@ public class AddContactTest extends  TestBase{
         }
     }
 
-    @Test (invocationCount = 3) //(invocationCount = 4)
+    @Test (invocationCount = 3,groups = {"web"}) //(invocationCount = 4)
     public void addNewContactSucces(){
 //        if(count >3){
 //            removeAllContacts;
@@ -89,7 +89,7 @@ public class AddContactTest extends  TestBase{
     }
 
     //add contactValidDataCSV
-    @Test (dataProvider = "addContactValidDataCSV",dataProviderClass = MyDataProvider.class)
+    @Test (dataProvider = "addContactValidDataCSV",dataProviderClass = MyDataProvider.class,groups = {"web"})
     public void addNewContactSuccesCsv(Contact contact){
 //        if(count >3){
 //            removeAllContacts;
